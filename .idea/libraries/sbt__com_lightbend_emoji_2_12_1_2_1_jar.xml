@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.lightbend:emoji_2.12:1.2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo.typesafe.com/typesafe/ivy-releases/com.lightbend/emoji_2.12/1.2.1/jars/emoji_2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo.typesafe.com/typesafe/ivy-releases/com.lightbend/emoji_2.12/1.2.1/docs/emoji_2.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo.typesafe.com/typesafe/ivy-releases/com.lightbend/emoji_2.12/1.2.1/srcs/emoji_2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
