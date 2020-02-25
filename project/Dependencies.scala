@@ -4,7 +4,7 @@ object Dependencies {
 
   object Versions {
     val Cats = "1.0.1"
-    val Joda = "2.10.3"
+    val Joda = "2.10.5"
 
     val Emoji = "1.2.1"
 
