@@ -1,5 +1,6 @@
 package io.lambdaworks.workshop
 
-import org.scalatest.{MustMatchers, WordSpec}
+import org.scalatest.matchers.must.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-trait UnitSpec  extends WordSpec with MustMatchers
+trait UnitSpec  extends AnyWordSpec with Matchers
