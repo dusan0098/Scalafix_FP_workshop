@@ -8,7 +8,7 @@ object Dependencies {
 
     val Emoji = "1.2.1"
 
-    val ScalaTest = "3.0.8"
+    val ScalaTest = "3.1.1"
   }
 
   val cats: ModuleID = "org.typelevel" %% "cats-core" % Versions.Cats
