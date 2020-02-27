@@ -12,7 +12,8 @@ object Immutability {
 
   final case class Polygon(arrayBuffer: ArrayBuffer[Point])
 
-  def main(args: Array[String]): Unit = {
+ // def main(args: Array[String]): Unit = {
+ def main(args: Array[String]): Unit = {
     val employee = Employee("John", "Doe")
 
     // Will not compile
