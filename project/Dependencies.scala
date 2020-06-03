@@ -14,7 +14,7 @@ object Dependencies {
   val cats: ModuleID = "org.typelevel" %% "cats-core" % Versions.Cats
   val joda: ModuleID = "joda-time"     % "joda-time"  % Versions.Joda
 
-  val scalameta: ModuleID = "org.scalameta" %% "scalameta" % "4.3.0"
+  val scalameta: ModuleID = "org.scalameta" %% "scalameta" % "4.3.14"
 
   val emoji: ModuleID = "com.lightbend" %% "emoji" % Versions.Emoji
 
