@@ -3,7 +3,7 @@ import sbt._
 object Dependencies {
 
   object Versions {
-    val Cats = "2.1.1"
+    val Cats = "2.2.0"
     val Joda = "2.10.5"
 
     val Emoji = "1.2.1"
