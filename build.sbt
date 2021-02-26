@@ -9,7 +9,7 @@ lazy val buildSettings = Seq(
   addCompilerPlugin(scalafixSemanticdb),
   scalacOptions := Seq("-unchecked", "-deprecation", "-encoding", "utf8", "-Ypartial-unification","-Yrangepos","-Ywarn-unused-import")
 )
-scalaVersion in ThisBuild := "2.12.10"
+scalaVersion in ThisBuild := "2.12.13"
 
 lazy val libs = Seq(cats, joda, emoji, scalameta, scalaTest)
 
