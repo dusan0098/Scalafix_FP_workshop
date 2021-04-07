@@ -6,7 +6,7 @@ object Dependencies {
     val Cats = "2.1.1"
     val Joda = "2.10.5"
 
-    val Emoji = "1.2.1"
+    val Emoji = "1.2.2"
 
     val ScalaTest = "3.1.1"
   }
